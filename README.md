@@ -1,4 +1,4 @@
-# life-in-x
+# life-in-x (WIP)
 
 Visualize your life in X (days/weeks/months/years)
 
